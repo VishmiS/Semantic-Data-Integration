@@ -6,9 +6,9 @@ rates. Our use case focuses on analyzing world population data to understand pop
 rates over time.
 
 ### Datasets
-World Bank - World Development Indicators
-Kaggle
-United Nations - World Population Prospects
++ World Bank - World Development Indicators
++ Kaggle
++ United Nations - World Population Prospects
 
 Schema matching is crucial for integrating diverse data sources, ensuring interoperability and data quality across datasets
 from Kaggle, United Nations , and the World Bank. In this project, we evaluate three schema matching techniques: Edit
